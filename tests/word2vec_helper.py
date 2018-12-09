@@ -33,6 +33,7 @@ with open("../data/tweets_edited.pkl", "rb") as f:
         if i % 1000 == 0:
             print(i)
 
+    # This is about 24.
     print(f"AVERAGE: {sizes_sum / len(sentences)}")
 
 tweets = np.asmatrix(tweets)  # , dtype=[np.int32])
