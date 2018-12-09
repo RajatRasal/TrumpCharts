@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 If you want to embed images, this is how you do it:
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 layout: home
