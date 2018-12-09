@@ -1,0 +1,6 @@
+model_checkpoint_path: "pretrained_lstm.ckpt-99900"
+all_model_checkpoint_paths: "pretrained_lstm.ckpt-99700"
+all_model_checkpoint_paths: "pretrained_lstm.ckpt-99750"
+all_model_checkpoint_paths: "pretrained_lstm.ckpt-99800"
+all_model_checkpoint_paths: "pretrained_lstm.ckpt-99850"
+all_model_checkpoint_paths: "pretrained_lstm.ckpt-99900"
