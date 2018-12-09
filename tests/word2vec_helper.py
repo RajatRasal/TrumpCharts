@@ -36,6 +36,4 @@ with open("../data/tweets_edited.pkl", "rb") as f:
     # This is about 24.
     print(f"AVERAGE: {sizes_sum / len(sentences)}")
 
-tweets = np.asmatrix(tweets)  # , dtype=[np.int32])
-
-np.save("../data/tweets_integerized.npy", tweets)
+np.save("../data/tweets_integerized.npy", np.array(tweets))
