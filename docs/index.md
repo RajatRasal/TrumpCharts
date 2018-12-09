@@ -7,8 +7,8 @@ layout: home
 ---
 
 
-If you want to embed images, this is how you do it:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Trump is happy today!
+![Image of Yaktocat](https://i.amz.mshcdn.com/o8yzwO3e6nc1iRHXNwWu-5iYHGo=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F633489%2F7ee138be-4f37-403d-98c8-9e8644c1fd51.jpg)
 <div id="myDiv"></div>
 
 <script>
